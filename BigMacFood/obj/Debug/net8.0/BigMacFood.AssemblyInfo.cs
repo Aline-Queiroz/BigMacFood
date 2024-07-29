@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigMacFood")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cebc84c892ce99b56f5eccc373fc8f9a7588da31")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigMacFood")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigMacFood")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

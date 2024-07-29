@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood\\BigMacFood\\BigMacFood.csproj",
+      "projectUniqueName": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood2\\BigMacFood\\BigMacFood.csproj",
       "projectName": "BigMacFood",
-      "projectPath": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood\\BigMacFood\\BigMacFood.csproj",
+      "projectPath": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood2\\BigMacFood\\BigMacFood.csproj",
       "packagesPath": "C:\\Users\\alcampel\\.nuget\\packages\\",
-      "outputPath": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood\\BigMacFood\\obj\\",
+      "outputPath": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood2\\BigMacFood\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alcampel\\AppData\\Roaming\\NuGet\\NuGet.Config"
