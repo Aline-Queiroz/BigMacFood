@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood2\\BigMacFood\\wwwroot\\images\\carousel5.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel5.jpg"
+    },
+    {
+      "Id": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood2\\BigMacFood\\wwwroot\\images\\carousel6.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel6.jpg"
+    },
+    {
+      "Id": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood2\\BigMacFood\\wwwroot\\images\\carousel7.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel7.jpg"
+    },
+    {
       "Id": "C:\\development\\bradesco\\corretora-estudo\\BigMacFood2\\BigMacFood\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
